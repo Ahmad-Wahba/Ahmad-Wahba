@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad Wahba</h1>
 <h3 align="center">A Backend .NET Developer from Egypt</h3>
 
-- 🔭 I’m currently working on **Reعaya+**
+- 🔭 I’m currently working on **TicketSystem**
 
 - 🌱 I’m currently learning **.net microservices and frontend**
 
@@ -17,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmadhwahba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmadhwahba" height="30" width="40" /></a>
 <a href="https://fb.com/ahmadhwahba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmadhwahba" height="30" width="40" /></a>
 </p>
 
